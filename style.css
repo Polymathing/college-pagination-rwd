@@ -1,5 +1,5 @@
 body {
-  background-color: #ff4242;
+  background-color: #000000;
   font-family: "Lora", serif;
 }
 
@@ -46,7 +46,7 @@ h2 span {
   transition: all 0.3s ease;
 }
 .pagination li a:hover, .pagination li a.active {
-  color: #fff;
+  color: #000000;
   background-color: #ff4242;
 }
 .pagination li:first-child a {
